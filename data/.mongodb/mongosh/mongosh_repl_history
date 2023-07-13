@@ -1,2 +1,22 @@
+use TestDB
+show dbs
+show collections
+db.countries.find()
+use countries
+show collections
+show dbs
+use TestDB
+TestDB
+cd TestDB
+show dbs
+show collection
+ls
+db.countries.find()
+use countries
+show collections
+use TestDB
+show dbs
+use TestDB
+show dbs
 show collections
 use TestDB
