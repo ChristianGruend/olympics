@@ -20,7 +20,7 @@ services:
     depends_on:
       - mongo-import
 
-   backend:
+  backend:
     build: 
       context: ./backend
     ports:
